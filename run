@@ -2,5 +2,5 @@
 
 set -x
 
-ledger -f ./personal.ledger bal Ass --end yesterday
+ledger -f ./personal.ledger reg Banks:Bar --end yesterday
 # --end is exclusive
