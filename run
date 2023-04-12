@@ -2,4 +2,5 @@
 
 set -x
 
-ledger -f ./personal.ledger bal Ass --flat
+ledger -f ./personal.ledger bal Ass --end yesterday
+# --end is exclusive
