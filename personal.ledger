@@ -19,3 +19,22 @@
 2023-01-02 * Dinner out
     Expenses:Eat out                  32.25 GBP
     Assets:Banks:Foo                 -32.25 GBP
+
+
+
+2023-04-16 * Pizza takeaway
+    Expenses:Eat out                  15    GBP
+    Assets:Banks:Bar                 -15    GBP
+
+
+
+2023-04-17 * Gift and home lamp
+    Expenses:Gifts                   100    GBP
+    Expenses:Home                     50    GBP
+    Assets:Banks:Bar                -150    GBP
+
+
+
+2023-04-18 * Snack
+    Expenses:Eat out                   2    GBP
+    Assets:Banks:Bar                  -2    GBP
