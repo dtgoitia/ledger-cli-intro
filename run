@@ -2,4 +2,4 @@
 
 set -x
 
-ledger -f ./personal.ledger reg Banks:Foo
+ledger -f ./personal.ledger reg Banks:Bar
