@@ -1,0 +1,11 @@
+2023-01-01 * Opening balance
+    Assets:Banks:Foo                     10 GBP
+    Equity:Opening balance              -10 GBP
+
+2023-01-01 * Opening balance
+    Assets:Banks:Bar                  1,000 GBP
+    Equity:Opening balance           -1,000 GBP
+
+2023-01-01 * Opening balance
+    Assets:Investments:MyBroker      10,000 GBP
+    Equity:Opening balance          -10,000 GBP
