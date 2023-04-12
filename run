@@ -2,4 +2,4 @@
 
 set -x
 
-ledger -f ./personal.ledger reg Eat
+ledger -f ./personal.ledger reg Banks
